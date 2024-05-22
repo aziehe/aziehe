@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @aziehe 
-- 👀 I’m interested in machine learning and signal processing.
+👋 Hi, I’m @aziehe 
+👀 I’m working at TU Berlin and I'm interested in machine learning and signal processing.
 
 
 <!---
