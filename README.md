@@ -1,5 +1,6 @@
 👋 Hi, I’m @aziehe 
-👀 I’m working at TU Berlin and I'm interested in machine learning and signal processing.
+
+.. working at TU Berlin and interested in machine learning and signal processing.
 
 
 <!---
